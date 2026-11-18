@@ -7,7 +7,7 @@
 
 A gate-level hardware design, simulation, and breadboard implementation of an unsigned **3-bit binary multiplier** built exclusively from fundamental `AND`, `OR`, and `XOR` logic gates—without relying on dedicated adder ICs (such as the 74LS83).
 
-Developed as a Course Project for **Digital Electronics (Class ID: 173806)** at the **School of Electrical and Electronic Engineering, Hanoi University of Science and Technology (HUST)**.
+Developed as a Course Project for **Digital Electronics ** at the **School of Electrical and Electronic Engineering, Hanoi University of Science and Technology (HUST)**.
 
 ---
 
@@ -109,14 +109,6 @@ Both the **Proteus 8 simulation** and the **physical breadboard circuit** were t
 * **Display Output:** Adding a Binary-to-BCD converter and **7-segment displays** would allow direct decimal readout instead of manual binary reading via LEDs.
 
 ---
-
-## 👥 Team and Acknowledgments
-
-* **Supervisor:** Assoc. Prof. Dr. Hoang Manh Thang
-* **Students:**
-  * Mai Nhat Phong (`202414304`)
-  * Nguyen Thi Thu Mo (`202414268`)
-  * Nguyen Minh Duc (`202414039`)
 
 ### References
 * [Texas Instruments SNx4HC08 Datasheet](https://www.ti.com/lit/ds/symlink/sn74hc08.pdf)

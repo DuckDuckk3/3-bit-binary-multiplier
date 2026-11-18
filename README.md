@@ -73,7 +73,7 @@ Instead of using a 4-bit binary adder IC, three independent **Full Adders** were
 
 ---
 
-## 📊 Simulation & Hardware Results
+## 📊 Simulation and Hardware Results
 
 Both the **Proteus 8 simulation** and the **physical breadboard circuit** were tested across multiple input vectors and matched theoretical values with 100% accuracy:
 
@@ -102,7 +102,7 @@ Both the **Proteus 8 simulation** and the **physical breadboard circuit** were t
 
 ---
 
-## 🚀 Limitations & Future Work
+## 🚀 Limitations and Future Work
 
 * **Wiring Complexity:** Using discrete logic gates increases wire density on a breadboard. Designing a custom **PCB** would improve reliability and compactness.
 * **Fixed Bit-Width:** Currently limited to 3-bit inputs; can be scaled to a 4-bit or 8-bit array multiplier.
@@ -110,7 +110,7 @@ Both the **Proteus 8 simulation** and the **physical breadboard circuit** were t
 
 ---
 
-## 👥 Team & Acknowledgments
+## 👥 Team and Acknowledgments
 
 * **Supervisor:** Assoc. Prof. Dr. Hoang Manh Thang
 * **Students:**
